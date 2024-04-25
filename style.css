@@ -1,0 +1,23 @@
+.mainLayout{
+width:30%;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.imageLayout{
+width:100%}
+
+
+.tree {
+
+  list-style-type: none;
+}
+.description {
+  font-size: 12px;
+  color: #666;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+
+
+
